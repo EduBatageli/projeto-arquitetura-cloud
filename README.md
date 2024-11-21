@@ -32,7 +32,7 @@ Certifique-se de ter o Python instalado. Caso não tenha, baixe-o em [python.org
 1. **Clone o repositório:**
    ```bash
    git clone https://github.com/EduBatageli/projeto-arquitetura-cloud
-   cd controle-fluxo-caixa
+   
 
 2. **Crie um ambiente virtual**
    ```bash
