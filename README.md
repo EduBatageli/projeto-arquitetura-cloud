@@ -40,8 +40,10 @@ Certifique-se de ter o Python instalado. Caso não tenha, baixe-o em [python.org
     source venv/bin/activate   # Linux/Mac
     venv\Scripts\activate      # Windows
 3. **Instale as dependências:**
-4. **Rode o programa**
-5. **Acesse no navegador ou via ferramentas como Postman:**
+   ``` bash
+   pip install flask==2.3.3 flask-sqlalchemy==3.0.0
+5. **Rode o programa**
+6. **Acesse no navegador ou via ferramentas como Postman:**
    ```bash
    Status do servidor:
       http://127.0.0.1:5000/status
